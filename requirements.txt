@@ -1,0 +1,13 @@
+Requirements for the Project
+Python 3.x
+Programming language used for the project.
+pynput (Version 1.8.2)
+Used to capture keyboard events and keystrokes.
+Operating System
+Windows / Linux / macOS
+VS Code (Recommended)
+IDE used for development and testing.
+Git
+Used for version control.
+GitHub Account
+Used to host and submit the project repository.
